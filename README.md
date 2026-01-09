@@ -14,4 +14,4 @@ using the keras_tuner library.
 Finally, the project included evaluating the results using appropriate regression 
 metrics. All stages of the project are described in the Jupyter notebook itself.
 
-All the work was done byDmytro Shapovalov and Daniil Stroievskyi.
+All the work was done by Dmytro Shapovalov and Daniil Stroievskyi.
